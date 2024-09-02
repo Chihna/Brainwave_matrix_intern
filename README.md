@@ -77,8 +77,8 @@ ATM Menu:
 3. Withdraw
 4. Exit
 Choose an option: 2
-Enter the amount to deposit: 100
-You've successfully deposited $100.00
+Enter the amount to deposit: 400
+You've successfully deposited $400.00
 
 ATM Menu:
 1. Check Balance
@@ -86,8 +86,8 @@ ATM Menu:
 3. Withdraw
 4. Exit
 Choose an option: 3
-Enter the amount to withdraw: 50
-You've successfully withdrawn $50.00
+Enter the amount to withdraw: 700
+You've successfully withdrawn $700.00
 
 ATM Menu:
 1. Check Balance
